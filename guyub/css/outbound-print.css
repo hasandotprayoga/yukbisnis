@@ -1,9 +1,9 @@
-body {
+:root {
   font-size: 24px;
 }
 
 @media print {
-  body {
+  :root {
     font-size: 24px;
   }
 }
